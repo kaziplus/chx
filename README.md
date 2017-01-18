@@ -8,7 +8,7 @@ Some challenges modified from:
 - [Codility](http://codility.com)
 - [TopCoder](http://topcoder.com)
 
-# Using JSFiddle for Coding Interviews
+### Using JSFiddle for Coding Interviews
 
 Since JSFiddle does not provide a straight forward way of running _console-logging_ JS code, this is a hack [we found here](http://stackoverflow.com/questions/17382200/print-var-in-jsfiddle). 
 
